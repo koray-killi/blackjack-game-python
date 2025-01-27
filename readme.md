@@ -35,24 +35,6 @@ This project is a fully functional Blackjack (21) game designed for educational 
 #### Interactive Console Design
 - Incorporates color-coded outputs for different game events (e.g., winning, losing, or errors) using ANSI escape codes.
 
----
-
-## How to Play
-1. Run the script using Python 3: `python 21.py`.
-2. Follow the on-screen instructions to:
-   - Place your bet.
-   - Choose to "Hit" or "Stand" during your turn.
-3. Aim to get a hand value closer to 21 than the dealer without exceeding it.
-
----
-
-## Installation
-1. Ensure you have Python 3 installed on your system.
-2. Download the script `21.py` and place it in your desired directory.
-3. Install any required dependencies (if applicable, none specified in this version).
-
----
-
 ## File Descriptions
 - `21.py`: Main script containing the Blackjack game logic.
 - `balan.ce`: A text file that stores the player’s current balance. This file is auto-generated during gameplay.
